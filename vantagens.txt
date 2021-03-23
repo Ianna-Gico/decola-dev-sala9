@@ -1,1 +1,3 @@
 A vantagem do git é a facilidade para trabalhar em equipe - Miguel Leite
+Gabriel: Código em qualquer lugar
+Maria Luiza Duda - Sinergia nos projetos

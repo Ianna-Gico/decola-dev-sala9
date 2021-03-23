@@ -1,3 +1,7 @@
 git config --global user.name "yourusername"
 git init
+<<<<<<< HEAD
 git add .
+=======
+git add .
+git branch -m

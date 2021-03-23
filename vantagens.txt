@@ -1,6 +1,7 @@
-
-Controle de versionamento para trabalho e equipe.
-
+Leda: Controle de versionamento para trabalho e equipe.
 Gabriel: Código em qualquer lugar
-
 Maria Luiza Duda - Sinergia nos projetos
+A vantagem do git é a facilidade para trabalhar em equipe - Miguel Leite
+Bárbara Lícia
+Vantagem: poder fazer o projeto em conjunto remotamente e simultaneamente
+

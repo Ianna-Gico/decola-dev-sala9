@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Gabriel: Código em qualquer lugar
+=======
+Maria Luiza Duda - Sinergia nos projetos
+>>>>>>> 8683386dea437e13640a0c2dcb86e87513712ecd
